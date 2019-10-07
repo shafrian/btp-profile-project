@@ -1,0 +1,24 @@
+.container{
+	width: 1140;
+	margin-left: auto;
+	margin-right: auto;
+}
+.blog-post{
+	background-color: yellowgreen;
+	width: 65%;
+	float: left;
+}
+
+.sidebar{
+	background-color: red;
+	width: 25%;
+	float: left;
+}
+.clearfix:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.profile-post{
+	background-color: blue;
+}
